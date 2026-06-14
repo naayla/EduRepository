@@ -1,4 +1,4 @@
-# EduRepository Workspace Control Panel
+# EduRepository Workspace
 
 EduRepository adalah aplikasi manajemen dan media pembelajaran interaktif berbasis desktop yang dirancang untuk membantu mahasiswa mengelola berkas akademik, mengerjakan kuis ujian secara *live*, serta memantau progres belajar secara dinamis.
 
